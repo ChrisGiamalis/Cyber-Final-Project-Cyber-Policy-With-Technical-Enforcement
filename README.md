@@ -1,1 +1,1 @@
-These are Here are the technichal enforcement mechanism and the network connection checker that pair with a Cybersecurity policy I worte linked [here](https://docs.google.com/document/d/1FRNbr2mAqNvO7STh5hFUIkFxMC8FdGUcxyIhqF2Mu7s/view).
+Here are the technichal enforcement mechanism and the network connection checker that pair with a Cybersecurity policy I worte linked [here](https://docs.google.com/document/d/1FRNbr2mAqNvO7STh5hFUIkFxMC8FdGUcxyIhqF2Mu7s/view).
